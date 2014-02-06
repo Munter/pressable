@@ -1,0 +1,28 @@
+{
+  "name": "pressable",
+  "version": "0.1.0",
+  "description": "Representations of pressable keys that aren't text. These are stored in the Unicode PUA (Private Use Area) code points, 0xE000-0xF8FF.",
+  "main": "lib/pressable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Munter/pressable.git"
+  },
+  "keywords": [
+    "key",
+    "keys",
+    "unicode",
+    "pua",
+    "webdriver",
+    "dalek",
+    "test"
+  ],
+  "author": "Peter Müller <munter@fumle.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munter/pressable/issues"
+  },
+  "homepage": "https://github.com/Munter/pressable"
+}
